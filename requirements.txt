@@ -1,0 +1,5 @@
+pytelegrambotapi
+pandas
+numpy
+ccxt
+ta
